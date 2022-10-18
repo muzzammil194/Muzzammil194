@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muzzammil Shaikh</h1>
 <h3 align="center">A passionate FullStack developer</h3>
 
+<a href="https://app.daily.dev/Muzzammil194"><img src="https://api.daily.dev/devcards/cb8d72ed72c64fc2857dd39e10a3ae11.png?r=y8v" width="180" alt="Muzzammil Shaikh's Dev Card"/></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzzammil194&label=Profile%20views&color=0e75b6&style=flat" alt="muzzammil194" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzzammil194" alt="muzzammil194" /></a> </p>
