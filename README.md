@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muzzammil Shaikh</h1>
 <h3 align="center">A passionate FullStack developer</h3>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <a href="https://app.daily.dev/Muzzammil194"><img src="https://api.daily.dev/devcards/cb8d72ed72c64fc2857dd39e10a3ae11.png?r=pc6" width="400" alt="Muzzammil Shaikh's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzzammil194&label=Profile%20views&color=0e75b6&style=flat" alt="muzzammil194" /> </p>
